@@ -1,0 +1,479 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 198}, {71, 87}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "border_width" : 0,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "8EF4D3F3-E0B6-46D7-BD1B-99A61026F911",
+          "class" : "Button",
+          "font_bold" : true,
+          "corner_radius" : 0,
+          "name" : "BR",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 198}, {78, 87}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "79DCDB2A-CDA2-45F6-ADD9-1357A3D1404C",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "BM",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-2, 198}, {80, 87}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "1BA76DD4-A7E9-41C7-B71A-0C3C5A1A4459",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "BL",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 110}, {71, 91}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "19ED542A-03A5-4E2C-9878-6BDCA7A5CD5D",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "MR",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 110}, {78, 91}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "1EECBDD3-2FB4-486E-884A-B8C7AA4F5C2F",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "MM",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-2, 110}, {80, 91}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "A076E1E3-0C64-4C9E-917D-38607E61780D",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "ML",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 35}, {71, 78}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "740294BD-4DAD-4767-A2DE-FD43B6C1EB3E",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "TR",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 35}, {78, 78}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "881DCAD8-3496-4728-B86C-5C0BA9080916",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "TM",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-2, 35}, {78, 78}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "alpha" : 1,
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "",
+          "uuid" : "1A260678-5F80-4DD5-BCB2-176424DCDF4C",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "TL",
+          "font_size" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 198}, {78, 87}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "Arial-BoldMT",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "24E993CD-FEDB-4390-A878-6BAF63AAFF85",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "BRL",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 198}, {78, 87}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "Arial-BoldMT",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "24E993CD-FEDB-4390-A878-6BAF63AAFF85",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "BML",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-2, 198}, {78, 87}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "BLL",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "24E993CD-FEDB-4390-A878-6BAF63AAFF85",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 50,
+          "font_name" : "Arial-BoldMT"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 110}, {78, 91}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "Arial-BoldMT",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "C83C8AF2-062F-49B7-B361-E0CB9A637090",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 50,
+          "name" : "MRL"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 110}, {78, 91}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "Arial-BoldMT",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "C83C8AF2-062F-49B7-B361-E0CB9A637090",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 50,
+          "name" : "MML"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-2, 110}, {78, 91}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 50,
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "C83C8AF2-062F-49B7-B361-E0CB9A637090",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "MLL",
+          "font_name" : "Arial-BoldMT"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 35}, {78, 78}}",
+        "class" : "Label",
+        "attributes" : {
+          "alpha" : 1,
+          "name" : "TRL",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "817EC22E-5CBA-4BCF-A43C-AA780AB5DA4D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 50,
+          "font_name" : "Arial-BoldMT"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 35}, {78, 78}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "Arial-BoldMT",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "817EC22E-5CBA-4BCF-A43C-AA780AB5DA4D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 50,
+          "name" : "TML"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-2, 35}, {78, 78}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 50,
+          "uuid" : "817EC22E-5CBA-4BCF-A43C-AA780AB5DA4D",
+          "corner_radius" : 0,
+          "frame" : "{{165, 144}, {150, 32}}",
+          "number_of_lines" : 0,
+          "border_width" : 0,
+          "alignment" : "center",
+          "text_color" : "RGBA(0.368627,0.368627,1.000000,1.000000)",
+          "text" : "",
+          "font_name" : "Arial-BoldMT",
+          "class" : "Label",
+          "name" : "TLL",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 35}, {3, 250}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{190, 110}, {100, 100}}",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "09C0541D-83E1-4311-8109-3AEF488D4471"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{150, 35}, {3, 250}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{190, 110}, {100, 100}}",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "View",
+          "name" : "view2",
+          "uuid" : "580E6D48-C934-4219-BE0B-F319C0150D5B"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 110}, {215, 3}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{190, 110}, {100, 100}}",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "View",
+          "name" : "view3",
+          "uuid" : "7E6852DF-A5F6-4171-A48D-E41D1BF69F43"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 198}, {215, 3}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{190, 110}, {100, 100}}",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "View",
+          "name" : "view4",
+          "uuid" : "C107CC30-3098-48CF-B1F0-AD919B3C8125"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{273, 35}, {168, 43}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "AmericanTypewriter-Bold",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "904CD5F9-8133-4384-8F5C-6A9DFDC969A5",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Its X’s Turn",
+          "font_size" : 18,
+          "name" : "label1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{239, 288}, {235, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "04079740-1047-4E80-94CB-3B388C9FC562",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Created by Ethan Armstrong",
+          "font_size" : 18,
+          "name" : "label2"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{273, 222}, {168, 40}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "restart",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "Restart",
+          "uuid" : "DBAF5C1D-0C69-4021-B6A1-E0168B819A1E",
+          "class" : "Button",
+          "name" : "restart",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
